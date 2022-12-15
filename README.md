@@ -1,3 +1,6 @@
 # oc_test
 
-print("Rahul ia a DevOps engineer")
+
+<?php
+echo "Hello World!";
+?>
